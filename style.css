@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divmtoloca {
+    height: 40vh;
+    width: 30vw;
+    background-color: rgb(66, 55, 219);
+    align-items: center;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-color: black;
+    border: 5px solid rgb(0, 0, 0);
+    color: azure;
+}
+.titulo {
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: rgba(0, 26, 255, 0.336);
+    border: 8px solid rgb(0, 0, 0);
+}
